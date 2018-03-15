@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">GymEezy</string>
     <string name="intro">Welcome</string>
+    <string name="outro">Bye</string>
 </resources>
