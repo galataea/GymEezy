@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GymEezyMj.iml" filepath="$PROJECT_DIR$/GymEezyMj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GymEezy.iml" filepath="$PROJECT_DIR$/GymEezy.iml" />
+      <module fileurl="file://C:\Users\Mike-W\AndroidStudioProjects\GymEezy\GymEezyMj.iml" filepath="C:\Users\Mike-W\AndroidStudioProjects\GymEezy\GymEezyMj.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
