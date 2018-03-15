@@ -3,4 +3,6 @@
     <string name="intro">Welcome</string>
     <string name="outro">BYE</string>
     <string name="title">GymEezy Please</string>
+    <string name="buttonChest">View Chest Workouts</string>
+
 </resources>
